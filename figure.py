@@ -1,23 +1,7 @@
 #!/usr/bin/env python3
 
 
-###############################################################################
 
-# Anmerkung zum weiteren Programm
-
-# ab rev7 haben Objekte Kenntnis von den anderen Objekten und leiten daraus
-# mögliche Züge ab. Es fehlt noch die Implementation die Figur nicht zu bewegen
-# falls dadurch der König bedroht werden würde. 
-
-###############################################################################
-
-###############################################################################
-# Änderung in rev13:
-# Queen von Knight und Rook kopiert und umgeändert
-# noch nicht getestet
-# Code frisiert, alle überflüssigen __variablen aus den privaten Methoden
-# entfernt. 
-###############################################################################
 
 class Figure() :
     
